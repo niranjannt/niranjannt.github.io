@@ -36,7 +36,7 @@ a:hover {
 div {
     padding: 20px;
     margin: 20px auto;
-    max-width: 1000px; /* keep content centered and readable */
+    max-width: 1000px; 
     background-color: #ffffff;
     border-radius: 10px;
     box-shadow: 0 3px 8px rgba(0,0,0,0.1);
