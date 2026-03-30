@@ -3,7 +3,7 @@ h1 {
     background-color: #f4f4f4;
     width: 60px;
     height: 30px;
-    justify-content: center;
+    justify-content: right;
 }
 
 #heading {
@@ -13,8 +13,10 @@ h1 {
 
 .paragraph-style {
     color:fuchsia;
-    text-align: left;
+    text-align: center;
+    justify-content: baseline;
 }
+
 a {
     color: blue;
     text-decoration: underline;
