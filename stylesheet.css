@@ -1,8 +1,9 @@
 h1 {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
-    width: 40px;
+    width: 60px;
     height: 30px;
+    justify-content: center;
 }
 
 #heading {
@@ -13,9 +14,6 @@ h1 {
 .paragraph-style {
     color:fuchsia;
     text-align: left;
-    width: 30px;
-    margin: 20px;
-    border: 2px solid blue;
 }
 a {
     color: blue;
