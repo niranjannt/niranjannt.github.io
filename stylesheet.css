@@ -1,0 +1,28 @@
+h1 {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    width: 40px;
+    height: 30px;
+}
+
+#heading {
+    color: darkblue;
+    text-align: center;
+}
+
+.paragraph-style {
+    color:fuchsia;
+    text-align: left;
+    width: 30px;
+    margin: 20px;
+    border: 2px solid blue;
+}
+a {
+    color: blue;
+    text-decoration: underline;
+}
+
+a:hover {
+  color: red;
+  text-decoration: underline;
+}
