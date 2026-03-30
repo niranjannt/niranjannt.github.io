@@ -1,24 +1,51 @@
 h1 {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
+    padding: 40px 20px 20px 20px; 
+    margin-bottom: 30px;
+    border-radius: 8px; 
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
 }
 
 #heading {
     color: darkblue;
     text-align: center;
+    margin-top: 50px; 
+    margin-bottom: 20px; 
+    font-family: 'Arial', sans-serif;
 }
 
 .paragraph-style {
-    color:fuchsia;
+    color: fuchsia;
     text-align: center;
+    line-height: 1.6; 
+    margin: 20px auto;
+    max-width: 900px; 
 }
-
 a {
     color: blue;
     text-decoration: underline;
 }
 
 a:hover {
-  color: red;
-  text-decoration: underline;
+    color: red;
+    text-decoration: underline;
+}
+
+div {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 1000px; /* keep content centered and readable */
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+}
+
+img {
+    display: block;
+    margin: 30px auto;
+    max-width: 90%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
